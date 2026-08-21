@@ -95,6 +95,5 @@ Anas Al-Hammouri
 Connect on [LinkedIn] (https://www.linkedin.com/in/anas-al-hammouri-941a64421/)
 
    
-   ```bash
    git clone https://github.com/AnasAlHammouri/diabetes-prediction-ml.git
    cd diabetes-prediction-ml
